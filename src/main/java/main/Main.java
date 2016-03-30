@@ -32,5 +32,6 @@ public class Main {
         server.start();
         LOG.info("Server started");
         server.join();
+
     }
 }
